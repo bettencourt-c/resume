@@ -34,7 +34,9 @@ header {
 }
 
 .about-text hr {
-    color: RGB(148,44,60); 
+    background-color: RGB(148,44,60); 
+    height: 1px; 
+    border: 0
 }
 
 .about-text a {

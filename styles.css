@@ -26,11 +26,15 @@ header {
 }
 
 .about-text h1 {
-    color: RGB(148,44,60);
+    color: RGB(44,45,43);
+}
+
+.about-text h2 {
+    color: RGB(100,102,99);
 }
 
 .about-text a {
-    color: RGB(100,102,99);
+    color: RGB(148,44,60);
     text-decoration: none;
 }
 
@@ -38,12 +42,8 @@ header {
     text-decoration: underline;
 }
 .about-text {
+    color: RGB(100,102,99);
     flex: 1 1 300px; 
-}
-
-.about-text a {
-    color: RGB(148,44,60);
-    text-decoration: none;
 }
 
 .contact-info {

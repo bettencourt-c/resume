@@ -26,11 +26,11 @@ header {
 }
 
 .about-text h1 {
-    color: RGB(100,102,99);
+    color: RGB(148,44,60);
 }
 
 .about-text a {
-    color: RGB(148,44,60);
+    color: RGB(100,102,99);
     text-decoration: none;
 }
 

@@ -30,7 +30,11 @@ header {
 }
 
 .about-text h2 {
-    color: RGB(100,102,99);
+    color: RGB(44,45,43);
+}
+
+.about-text hr {
+    color: RGB(148,44,60);
 }
 
 .about-text a {

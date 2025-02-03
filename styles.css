@@ -6,11 +6,16 @@ body {
     color: RGB(44,45,43);
 } 
 
+
 header {
-    background: RGB(148,44,60);
+    background: RGB(97, 63, 77);
     color: RGB(236,236,236);
-    padding: 10px 0;
+    margin: auto;
+    padding: 20px;
+    max-width: 1000px; 
     text-align: center;
+    border-radius: 8px 8px 0px 0px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 } 
 
 .cv-container {
@@ -40,7 +45,7 @@ header {
 }
 
 .about-text a {
-    color: RGB(148,44,60);
+    color: RGB(97, 63, 77);
     text-decoration: none;
 }
 
@@ -65,7 +70,7 @@ header {
 }
 
 .contact-info a {
-    color: RGB(148,44,60);
+    color: RGB(97, 63, 77);
     text-decoration: none;
 }
 
@@ -74,7 +79,7 @@ header {
 }
 
 .contact-info p {
-    color: RGB(148,44,60);
+    color: RGB(97, 63, 77);
     margin: 0;
     text-align: center;
 }
